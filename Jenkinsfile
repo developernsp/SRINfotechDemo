@@ -8,7 +8,7 @@ pipeline{
 	
 	stages{
 	
-	stage('build'){
+	stage('build, added from dev1'){
 	
 	steps{
 	
